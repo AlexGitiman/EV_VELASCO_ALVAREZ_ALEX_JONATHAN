@@ -1,4 +1,9 @@
+ALEX JONATHAN 
 VELASCO ALVAREZ
+<<<<<<< HEAD
 ALEX JONATHAN
 JAVA C++
 SQL
+=======
+0984997909
+>>>>>>> develop
